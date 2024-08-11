@@ -1,0 +1,160 @@
+    1  apt update && apt upgrade -y
+    2  apt install neofetch
+    3  apt install wsl
+    4  apt install apache 2
+    5  apt install apache2
+    6  apt install php
+    7  apt install git
+    8  apt install gh
+    9  apt install default-jdk
+   10  clear
+   11  apt install python3
+   12  apt install php php-mysql
+   13  apt install mysql-server
+   14  clear
+   15  exit
+   16  clear
+   17  apt update && apt upgrade -y
+   18  exit
+   19  apt list-install
+   20  list-install
+   21  pkg list-install
+   22  apt list
+   23  apt 
+   24  cleqr
+   25  clear
+   26  apt list
+   27  apt 
+   28  apt list installed
+   29  apt list-installed
+   30  apt list--install
+   31  apt list --install
+   32  cleqr
+   33  clear
+   34  apt -l --install
+   35  cleqr
+   36  clear
+   37  clear
+   38  exit
+   39  nano
+   40  clear
+   41  ssh
+   42  whoami
+   43  exit
+   44  clear
+   45  ifconfig
+   46  htop
+   47  exit
+   48  gh auth login
+   49  apt autoclean
+   50  exit
+   51  gh auth login
+   52  clear
+   53  ln -s /data/data/com.termux/files/usr/etc/apache2 webserver
+   54  cd webserver
+   55  pwd
+   56  cd webserver
+   57  ln -s /data/data/com.termux/files/usr/etc/apache2 webserver
+   58  cd
+   59  cd /
+   60  cd webserver
+   61  cd /data/data/com.termux/files/usr/etc/apache2 webserver
+   62  cd /data/data/com.termux/files/usr/etc/apache2 
+   63  cd /data
+   64  cd /data/data
+   65  cd /data/data/com.termux
+   66  cd /data/data/com.termux/files
+   67  cd /data/data/com.termux/files/usr
+   68  cd /data/data/com.termux/files/usr/etc
+   69  cd /data/data/com.termux/files/usr/etc/apache2
+   70  md apache2
+   71  mkdir apache2
+   72  cd /data/data/com.termux/files/usr/etc/apache2
+   73  ln -s /data/data/com.termux/files/usr/etc/apache2 webserver
+   74  pwd
+   75  clear
+   76  cd /
+   77  cd webserver
+   78  cd ~
+   79  cd webserver
+   80  pwd
+   81  exit
+   82  gh auth login
+   83  apt autoclean
+   84  exit
+   85  clear
+   86  gh login
+   87  ls
+   88  cd
+   89  ls
+   90  logcat -s
+   91  clear
+   92  gh
+   93  gh --help
+   94  gh login --help
+   95  exiy
+   96  exit
+   97  apt list --installed
+   98  ls
+   99  apache3
+  100  apache2
+  101  ckit
+  102  exit
+  103  apt install openssh
+  104  exit
+  105  apt update && apt upgrade
+  106  exit
+  107  apt update && apt upgrade -y
+  108  exit
+  109  apt update && apt upgrade -y
+  110  exit
+  111  apt update && apt upgrade -y
+  112  exit
+  113  git
+  114  exit
+  115  git clone
+  116  git clone -- 184954912_LAGPEY
+  117  exit
+  118  ls
+  119  mkdir linux_practice
+  120  ls
+  121  cd linux_practice
+  122  touch notes.txt
+  123  ls
+  124  ls >> notes.txt
+  125  cat notes.txt
+  126  echo "Hello, Linux!" > notes.txt
+  127  echo "This is a practical exam." >> notes.txt
+  128  head -n 1 notes.txt
+  129  tail -n 1 notes.txt
+  130  mkdir subdir
+  131  mv notes.txt subdir/
+  132  mv subdir practice_subdir
+  133  cp practice_subdir/notes.txt
+  134  cp practice_subdir/notes.txt .
+  135  ls
+  136  date
+  137  uptime
+  138  du -sh ~
+  139  ssh -v
+  140  ssh -V
+  141  php -V
+  142  php -v
+  143  mysql -v
+  144  mysql -V
+  145  apache -V
+  146  apache2 -v
+  147  python3 -v
+  148  python3 --version
+  149  jdk -v
+  150  java -v
+  151  java -version
+  152  git checkout -b finalexam
+  153  history > exam_log.txt
+  154  git add . exam_log.txt
+  155  git commit -m "Added exam_log.txt with command history"
+  156  git push origin finalexam
+  157  exit
+  158  cd 184954912_Lagpey
+  159  git checkout finalexam
+  160  history > exam_log.txt
