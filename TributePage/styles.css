@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #E6E6FA;
+    text-align: center;
+}
+
+h1 {
+    padding: 10px;
+}
+
+h3 {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.play-image {
+    background-color: #CBC3E3;
+    padding: 40px;
+    margin: auto;
+    
+}
+
+.playstation-image {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    object-fit: contain;
+    max-width: 100%;
+    height: auto;
+}
+
+.ps-caption {
+    padding: 5px;
+}
+
+.ps-time-header {
+    font-size: 20px;
+}
+
+.ps-time {
+    padding: 30px;
+}
+
+.ps-image {
+    margin: 10px;
+    padding: 10px;
+    width: 230px;
+    height: 280px;
+    float: left;
+}
+
+.playstation {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    display: flex;
+}
+
+.play-time {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin: 5px;
+    padding: 15px;
+    display: inline-block;
+
+}
+
+li {
+    margin: 10px;
+    text-align: justify;
+}
+
+.quote {
+    margin-top: 15px;
+}
+
+.quote-author {
+    margin: 5px;
+}
+
+.info {
+    text-indent: 30px;
+    margin-bottom: 30px;
+}
